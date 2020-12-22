@@ -1,5 +1,8 @@
 # LED.LtoR
+ 控制LED閃爍   
   
+  
+***  
 int LED = 5;  
 void setup ()  
 {  
@@ -18,3 +21,4 @@ LED = 6;
 LED --;  
 delay(500);   
 }  
+***
