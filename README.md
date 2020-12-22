@@ -4,6 +4,7 @@
 
   
 ***  
+```c++
 int LED = 5;  
 void setup ()  
 {  
@@ -22,4 +23,5 @@ LED = 6;
 LED --;  
 delay(500);   
 }  
+```
 ***
