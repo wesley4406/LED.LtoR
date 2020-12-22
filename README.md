@@ -1,6 +1,6 @@
 # LED.LtoR
  控制LED閃爍   
-  ![image](https://github.com/wesley4406/LED.LtoR/blob/main/ezgif.com-video-to-gif%20(2))
+  ![image](https://github.com/wesley4406/LED.LtoR/blob/main/ezgif.com-video-to-gif%20(2).gif)
 
   
 ***  
