@@ -1,5 +1,5 @@
 # LED.LtoR
- 控制LED閃爍   
+ 控制LED由左至右逐一亮滅   
   ![image](https://github.com/wesley4406/LED.LtoR/blob/main/ezgif.com-video-to-gif%20(2).gif)
 
   
